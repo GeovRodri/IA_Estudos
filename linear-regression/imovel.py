@@ -5,7 +5,7 @@ import seaborn as sb
 import zapimoveis_scraper
 from matplotlib import pyplot as plt
 
-zap_imoveis = zapimoveis_scraper.search()
+zap_imoveis = zapimoveis_scraper.search(localization="go+goiania++setor-oeste", num_pages=5)
 new_list_zap = {}
 
 prices = []
