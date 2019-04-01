@@ -3,6 +3,4 @@ numpy
 jupyter
 seaborn
 matplotlib
-Scrapy
-scrapy-splash
 zapimoveis_scraper
