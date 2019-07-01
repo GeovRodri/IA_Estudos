@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a21ec0c0-b928-4975-80a5-9e435663b7a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/liniar-regression-univalorado/imovel-regressao-univalorado.py" beforeDir="false" afterPath="$PROJECT_DIR$/liniar-regression-univalorado/imovel-regressao-univalorado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perceptron/perceptron.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perceptron/xor-erceptron.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/I.A Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/I.A Study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritmo_geneticos/mochila01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imovel-gradient-descent/apes-aluguel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imovel-gradient-descent/imovel-gradient-descent-multiplas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/regressao_linear_multivalorado/regressao_linear_multivalorado.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imovel-gradient-descent/imovel-gradient-descent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/regressao_linear_univalorado/regressao_linear_univalorado.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear-regression/imovel.py" beforeDir="false" afterPath="$PROJECT_DIR$/regressao_linear_predicao_polyfit/regressao_linear_predicao_polyfit.py" afterDir="false" />
     </list>
     <ignored path=".idea/encodings.xml" />
     <ignored path=".idea/I.A Study.iml" />
@@ -28,20 +37,7 @@
     <favorites_list name="I.A Study" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/liniar-regression-univalorado/imovel-regressao-univalorado.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="72" column="24" lean-forward="true" selection-start-line="65" selection-end-line="72" selection-end-column="24" />
-              <folding>
-                <element signature="e#38#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,6 +57,10 @@
       <find>Field()</find>
       <find>media_erro</find>
       <find>X</find>
+      <find>Problema_Genetico</find>
+      <find>23, 31</find>
+      <find>binario_a_decimal</find>
+      <find>get_knapsack_solution_simple</find>
     </findStrings>
     <replaceStrings>
       <replace>dict()</replace>
@@ -85,6 +85,7 @@
         <option value="$PROJECT_DIR$/linear-regression/requirements.txt" />
         <option value="$PROJECT_DIR$/MongoConnection.py" />
         <option value="$PROJECT_DIR$/liniar-regression-univalorado/imovel-regressao-univalorado.py" />
+        <option value="$PROJECT_DIR$/algoritmo_geneticos/mochila01.py" />
       </list>
     </option>
   </component>
@@ -108,12 +109,7 @@
             <path>
               <item name="I.A_Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="I.A_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="linear-regression" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="I.A_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="I.A_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="liniar-regression-univalorado" type="462c0819:PsiDirectoryNode" />
+              <item name="algoritmo_geneticos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,8 +119,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imovel(tamanho-preco).py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/TCC-IFG" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -281,11 +278,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Jupyter Notebook.I.A Study" />
       <item itemvalue="Python.imovel(tamanho-preco)" />
       <item itemvalue="Python.imovel-coeficiente-angular" />
-      <item itemvalue="Python.imovel" />
       <item itemvalue="Python.imovel-regressao-univalorado" />
+      <item itemvalue="Python.imovel" />
     </list>
     <recent_temporary>
       <list>
@@ -315,6 +311,11 @@
       <workItem from="1554093675659" duration="1067000" />
       <workItem from="1554174460730" duration="232000" />
       <workItem from="1554658442733" duration="9673000" />
+      <workItem from="1554689682441" duration="112000" />
+      <workItem from="1554765674671" duration="698000" />
+      <workItem from="1554847857866" duration="102000" />
+      <workItem from="1561913453843" duration="9000" />
+      <workItem from="1561916556636" duration="3849000" />
     </task>
     <task id="LOCAL-00001" summary="alterando versão scraper">
       <created>1553573389408</created>
@@ -327,14 +328,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27235000" />
+    <option name="totallyTimeSpent" value="32005000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="-1" width="1366" height="743" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5013774" side_tool="true" weight="0.1560606" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4986226" weight="0.16923077" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4986226" visible="true" weight="0.17575757" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32781458" />
@@ -399,28 +399,10 @@ re.sub('[^0-9]', '', zap_imovel.price),</expression-string>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/zap-imoveis/items.py" />
     <entry file="file://$PROJECT_DIR$/imovel(tamanho-preco).ipynb" />
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/scrapy/item.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/scrapy/item.py" />
     <entry file="file://$PROJECT_DIR$/zap-imoveis/zap_spider.py" />
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/core/internals/managers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="1690" selection-start-line="1690" selection-end-line="1690" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/compat/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="131" selection-start-line="131" selection-end-line="131" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/core/internals/managers.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/compat/__init__.py" />
     <entry file="file://$USER_HOME$/Downloads/imovel(tamanho-preco).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -436,34 +418,10 @@ re.sub('[^0-9]', '', zap_imovel.price),</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/core/internals/construction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="491" selection-start-line="491" selection-end-line="491" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/core/frame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="434" selection-start-line="434" selection-end-line="434" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/seaborn/axisgrid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="1937" column="11" lean-forward="true" selection-start-line="1937" selection-start-column="11" selection-end-line="1937" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/matplotlib/axes/_axes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="6564" selection-start-line="6564" selection-end-line="6564" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/core/internals/construction.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pandas/core/frame.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/seaborn/axisgrid.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/matplotlib/axes/_axes.py" />
     <entry file="file:///usr/lib/python3.6/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -478,68 +436,23 @@ re.sub('[^0-9]', '', zap_imovel.price),</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/zapimoveis_scraper/__init__.py">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/zapimoveis_scraper/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/linear-regression/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/MongoConnection.py" />
+    <entry file="file://$PROJECT_DIR$/imovel-regressao-linear1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/IPython/core/interactiveshell.py" />
+    <entry file="file://$PROJECT_DIR$/linear-regression/imovel.py" />
+    <entry file="file://$PROJECT_DIR$/liniar-regression-univalorado/apes-aluguel.csv" />
+    <entry file="file://$PROJECT_DIR$/liniar-regression-univalorado/imovel-regressao-univalorado.py" />
+    <entry file="file://$PROJECT_DIR$/algoritmo_geneticos/mochila01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linear-regression/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoConnection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imovel-regressao-linear1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/IPython/core/interactiveshell.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="924" selection-start-line="924" selection-end-line="924" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linear-regression/imovel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liniar-regression-univalorado/apes-aluguel.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1286" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liniar-regression-univalorado/imovel-regressao-univalorado.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="72" column="24" lean-forward="true" selection-start-line="65" selection-end-line="72" selection-end-column="24" />
-          <folding>
-            <element signature="e#38#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/algoritmo_geneticos/mochila01.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
 </project>
